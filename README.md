@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio build as one of Technigo bootcamp's weekly projects.
+This portfolio build as one of UM bootcamp's weekly projects.
 
 
 Learning Objectives:
@@ -15,4 +15,4 @@ Learning Objectives:
 
 
 ## View it live
-https://pwangy-portfolio.netlify.app/
+https://puffcooks.github.io/developer-portfolio/
