@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio build as one of UM bootcamp's weekly projects.
+This portfolio is built as one of UM bootcamp weekly projects.
 
 
 Learning Objectives:
@@ -16,3 +16,8 @@ Learning Objectives:
 
 ## View it live
 https://puffcooks.github.io/developer-portfolio/
+
+
+
+## Screenshot
+!Website Screenshot(\img\screenshotofsite.png?raw=true "Screenshot")
