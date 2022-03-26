@@ -20,4 +20,4 @@ https://puffcooks.github.io/developer-portfolio/
 
 
 ## Screenshot
-![Website Screenshot](\img\screenshotofsite.png?raw=true "Screenshot")
+![Website Screenshot](./img/screenshotofsite.png?raw=true "Screenshot")
