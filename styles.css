@@ -6,7 +6,7 @@ body {
   font-size: 17px;
   letter-spacing: 1px;
   line-height: 29px;
-  color: #4d4d4d;
+  color: #032642;
   background: #fff;
   display: flex;
   flex-flow: column nowrap;
@@ -25,7 +25,7 @@ section {
 .hero {
   height: 508px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/img/bg.jpg");
-  background-color: #808c73;
+  background-color: #032642;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -141,7 +141,7 @@ h3 {
 #line {
   height: 2px;
   width: 40px;
-  background: #808c73;
+  background: #032642;
   margin: 0;
 }
 
@@ -149,7 +149,7 @@ h3 {
   height: 10px;
   width: 10px;
   border-radius: 50%;
-  background: #808c73;
+  background: #032642;
   margin-left: -5px;
 }
 
@@ -175,7 +175,7 @@ h4 {
   line-height: 27px;
   color: #fff;
   text-align: center;
-  background: #808c73;
+  background: #032642;
   display: inline-block;
 }
 
@@ -193,7 +193,7 @@ h4 {
 
 .box-projects a {
   text-decoration: none;
-  color: #4d4d4d;
+  color: #032642;
   cursor: pointer;
 }
 
@@ -234,7 +234,7 @@ h4 {
 
 span {
   font-weight: 700;
-  color: #808c73;
+  color: #032642;
 }
 
 .desc-txt {
@@ -320,7 +320,7 @@ h5 {
 
 .date {
   margin-top: 14px;
-  color: #808c73;
+  color: #032642;
 }
 
 .post-title {
@@ -344,7 +344,7 @@ h5 {
 
 .date-more {
   margin: 0 8px 0 0;
-  color: #808c73;
+  color: #032642;
   float: left;
 }
 
@@ -458,7 +458,7 @@ footer {
   padding: 12px;
   text-align: center;
   color: #fff;
-  background:#808c73;
+  background:#032642;
 }
 
 .footer {
